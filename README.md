@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on [PixelAgent007/pixelbot](https://github.com/PixelAgent007/pixelbot)
 - 🌱 I’m currently learning Python
-- ⚡ Fun fact: 
 
 ---
 
