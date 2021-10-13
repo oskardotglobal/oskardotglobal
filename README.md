@@ -8,7 +8,7 @@
 - 🇩🇪 I live in Berlin, Germany
 
 - 📫 How to reach me
-  * **Discord**: PixelAgent007#
+  * **Discord**: PixelAgent007#3062
   * **Email**: [oskar@atisvirtual.de](mailto:oskar@atisvirtual.de)
   
 
