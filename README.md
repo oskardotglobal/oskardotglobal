@@ -10,7 +10,7 @@
 
 - 📫 How to reach me
   * **Discord**: PixelAgent007#3062
-  * **Email**: [oskar@atisvirtual.de](mailto:oskar@atisvirtual.de)
+  * **Email**: [hello@oskar.global](mailto:hello@oskar.globa)
   
 
 ---
