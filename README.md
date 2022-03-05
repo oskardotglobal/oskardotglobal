@@ -10,7 +10,7 @@
 
 - 📫 How to reach me
   * **Discord**: PixelAgent007#3062
-  * **Email**: [hello@oskar.global](mailto:hello@oskar.globa)
+  * **Email**: [hello@oskar.global](mailto:hello@oskar.global)
   
 
 ---
