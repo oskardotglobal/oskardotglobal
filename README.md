@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PixelAgent007" alt="PixelAgent007" /> </p>
 
-- 🔭 I’m currently working on [PixelAgent007/pixelbot-js](https://github.com/PixelAgent007/pixelbot-js)
-- 🌱 I’m currently learning NodeJS
+- 🔭 I’m currently working on [PixelAgent007/pixelbot.ts](https://github.com/PixelAgent007/pixelbot.ts)
+- 🌱 I’m currently learning JavaScript
 - 🌎 I want to build a good website
 - 🇩🇪 I live in Berlin, Germany
 
