@@ -9,8 +9,8 @@
 - 🇩🇪 I live in Berlin, Germany
 
 - 📫 How to reach me
-  * **Discord**: PixelAgent007#3062
-  * **Email**: [hello@oskar.global](mailto:hello@oskar.global)
+  * **Discord**: PixelAgent007#0001
+  * **Email**: [oskarmanhart@gmail.com](mailto:oskarmanhart@gmail.com)
   
 
 ---
