@@ -10,8 +10,6 @@
 
 - 📫 How to reach me
   * **Email**: [oskarmanhart@gmail.com](mailto:oskarmanhart@gmail.com)
-    * **Discord**: PixelAgent007#0001  
-
 ---
 
 ![oskardotglobal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oskardotglobal&show_icons=true&count_private=true)
