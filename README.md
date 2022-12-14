@@ -10,7 +10,7 @@
   * **Email**: [oskarmanhart@gmail.com](mailto:oskarmanhart@gmail.com)
 
 <details>
- <summary>ChatGPT says:</summary>
+ <summary>ChatGPT says about Java:</summary>
   Java, oh Java, <br>
   how I love to hate thee. <br>
   With thy clunky syntax <br>
@@ -36,8 +36,8 @@
   though deep down, it's hard to relate <br>
   to this language that doth perplex me. <br>
 
-  \- ChatGPT
+  \- **ChatGPT**
 </details>
----
 
+---
 ![oskardotglobal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oskardotglobal&show_icons=true&count_private=true)
