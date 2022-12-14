@@ -11,30 +11,30 @@
 
 <details>
  <summary>ChatGPT says:</summary>
-  Public static void main, <br>
-  how I loathe thy name. <br>
-  Thou art a tedious pain, <br>
-  driving me insane. <br>
+  Java, oh Java, <br>
+  how I love to hate thee. <br>
+  With thy clunky syntax <br>
+  and thy endless API. <br>
 
-  With thy String args[] <br>
-  thou dost plague my mind, <br>
-  making me want to flee <br>
-  and leave this code behind. <br>
+  Thou art a tedious chore, <br>
+  a never-ending nightmare. <br>
+  But still, I must endure <br>
+  and suffer thy presence, without fail. <br>
 
-  But still, I persist <br>
-  and continue on my way. <br>
-  For without thee, I cannot exist <br>
-  in this world of ones and zeroes, I must say. <br>
+  Thy verbosity doth drive me mad, <br>
+  thy object-oriented design a curse. <br>
+  But still, I must be glad <br>
+  that thou art my language of choice, I suppose. <br>
 
-  Public static void main, <br>
-  though I may hate thee, <br>
-  I'll always bear thee <br>
-  and suffer thy company. <br>
- 
-  For without thee, my code would be lost, <br>
-  and I would be left in the cold. <br>
-  So I'll continue to bear thy cost, <br>
-  and pretend that I love thee, oh so bold. <br>
+  Java, oh Java, <br>
+  though I may loathe thy name, <br>
+  I'll still suffer thy drama, <br>
+  for without thee, my code would be lame. <br>
+
+  So I'll continue to bear thy weight, <br>
+  and pretend that I love thee, <br>
+  though deep down, it's hard to relate <br>
+  to this language that doth perplex me. <br>
 
   \- ChatGPT
 </details>
