@@ -36,7 +36,7 @@
   So I'll continue to bear thy cost, <br>
   and pretend that I love thee, oh so bold. <br>
 
-  - ChatGPT
+  \- ChatGPT
 </details>
 ---
 
