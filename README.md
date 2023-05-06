@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oskar</h1>
 <h3 align="center">I'm A Self Taught Java Developer and Sysadmin.</h3>
 
-- 🔭 I’m currently working on [oskardotglobal/pixelbot.ts](https://github.com/oskardotglobal/pixelbot.ts)
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on my homelab
+- 🌱 I’m currently learning go
 - 🌎 I want to build a good website
 - 🇩🇪 I live in Berlin, Germany
 
