@@ -7,7 +7,7 @@
 - 🇩🇪 I live in Berlin, Germany
 
 - 📫 How to reach me
-  * **Email**: [hello@oskar.global](mailto:hello@oskar.global)
+  * **Email**: [me@oskar.global](mailto:me@oskar.global)
 
 <details>
  <summary>ChatGPT says about Java:</summary>
