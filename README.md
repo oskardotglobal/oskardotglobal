@@ -2,12 +2,12 @@
 <h3 align="center">I'm A Self Taught Java Developer and Sysadmin.</h3>
 
 - 🔭 I’m currently working on my homelab
-- 🌱 I’m currently learning go
-- 🌎 I want to build a good website
+- 🌱 I’m currently learning Rust
+- 🌎 I want to build a good portfolio
 - 🇩🇪 I live in Berlin, Germany
 
 - 📫 How to reach me
-  * **Email**: [me@oskar.global](mailto:me@oskar.global)
+  * **Email**: [hello@oskar.global](mailto:hello@oskar.global)
 
 <details>
  <summary>ChatGPT says about Java:</summary>
