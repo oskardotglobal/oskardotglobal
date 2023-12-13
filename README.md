@@ -8,6 +8,7 @@
 
 - 📫 How to reach me
   * **Email**: [hello@oskar.global](mailto:hello@oskar.global)
+  * **Matrix**: [@oskar:oskar.global](https://matrix.to/#/@oskar:oskar.global)
 
 <details>
  <summary>ChatGPT says about Java:</summary>
