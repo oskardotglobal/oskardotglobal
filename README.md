@@ -11,13 +11,11 @@
 #### 📫 How to reach me
 
   - Email: [hello@oskar.global](mailto:hello@oskar.global)
-  - Matrix: [@oskar:oskar.global](https://matrix.to/#/@oskar:oskar.global)
   - Github: [@oskardotglobal](https://github.com/oskardotglobal)
-  - I don't have any other social media
 
 #### 💻 My skills
 
-Languages: Java, Python, Rust, Go, Elixir
+Languages: Java, Python, Rust, Go, Elixir  
 Tools & Frameworks:
 - Linux
 - Containerization (Docker, Compose, Podman)
